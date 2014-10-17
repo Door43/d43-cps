@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cps:home|Door43 (cps)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cps|d43-cps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cps/archive/master.zip|d43-cps.zip]]
+
+**Recent Changes**
+{{changes>ns = cps}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cps|Ethnologue data]]
+
